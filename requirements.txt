@@ -2,4 +2,5 @@ jupyter==1.0.0
 pandas==2.0.0
 statsmodels==0.13.5
 seaborn==0.12.2
+pmdarima==2.0.3
 
